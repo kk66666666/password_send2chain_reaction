@@ -1,5 +1,5 @@
 {
-    "name": "password_send2chain_reaction",
+    "name": "password_send3chain_reaction",
     "description": "",
     "dependencies": {
         "core": "*",
